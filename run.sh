@@ -3,7 +3,7 @@
 KEY=3
 RESULT=""
 
-chmod +x encrypt.sh decrypt.sh key.sh save.sh 2>/dev/null
+chmod +x encrypt.sh decrypt.sh key-setting.sh file-save.sh 2>/dev/null
 
 show_menu() {
     echo "=============================="
